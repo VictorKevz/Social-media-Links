@@ -1,3 +1,3 @@
 let currentDate = new Date().getFullYear();
-let year = document.querySelector("span");
+let year = document.querySelector(".year");
 year.innerHTML = currentDate;
