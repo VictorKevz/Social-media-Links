@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background-color: #092635;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+
+
+}
+.container{
+    height: 620px;
+    width: 435px;
+    background-color:#9EC8B9 ;
+    border-radius: 15px;
+    margin: auto;
+}
+.item{
+    text-align: center;
+}
+.item button{
+    background-color: #092635;
+    border: none;
+    width: 350px;
+    height: 40px;
+    margin: 15px 0;
+    border-radius: 8px;
+
+}
+.item a{
+    display: block;
+    text-decoration: none;
+    color: #9EC8B9;
+    font-size: 20px;
+    text-
