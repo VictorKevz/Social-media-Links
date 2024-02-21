@@ -33,4 +33,35 @@ body{
     text-decoration: none;
     color: #9EC8B9;
     font-size: 20px;
-    text-
+    text-align: center;
+    font-weight: bolder;
+}
+.profile-photo{
+    width:115px;
+    height: 115px;
+    border-radius: 100%;
+    margin: 15px 0;
+}
+
+footer{
+    text-align: center;
+    opacity: 0.8;
+    margin-bottom: 0;
+    font-size: x-small;
+    padding-bottom: 0px;
+    color: #092635;
+}
+span{
+    color: #0e96db;
+}
+
+/* media queries for responsiveness */
+@media (max-width: 600px) {
+    .container {
+        width: 80%;
+    }
+
+    .item button {
+        width: 80%;
+    }
+}
