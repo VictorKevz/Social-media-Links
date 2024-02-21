@@ -51,9 +51,7 @@ footer{
     padding-bottom: 0px;
     color: #092635;
 }
-.name{
-    color: #0e96db;
-}
+
 
 /* media queries for responsiveness */
 @media (max-width: 600px) {
